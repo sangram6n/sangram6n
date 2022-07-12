@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sangram6n
 - 👀 I’m interested in data science and artificial inteligence
-- 🌱 I’m currently learning artificial inteligence
+- 🌱 I’m currently working as ML Engineer
 
 
 <!---
